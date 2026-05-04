@@ -1,5 +1,10 @@
 # ✈️ Air Traffic Analysis Dashboard (Big Data Project)
 
+## 🚀 Key Insights
+- Passenger traffic increased significantly over time
+- Freight trends show seasonal fluctuations
+- Airline distribution highlights dominant carriers
+
 ## 📌 Overview
 
 This project focuses on analysing large-scale aviation datasets to understand passenger and freight traffic trends. The goal was to design interactive dashboards for business insights using Power BI.
