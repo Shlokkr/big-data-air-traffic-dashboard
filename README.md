@@ -1,10 +1,5 @@
 # ✈️ Air Traffic Analysis Dashboard (Big Data Project)
 
-## 🚀 Key Outcome
-- Analysed 100K+ records from UK transport data
-- Built ML models to classify accident severity
-- Identified weather and time as key risk factors
-
 ## 📌 Overview
 
 This project focuses on analysing large-scale aviation datasets to understand passenger and freight traffic trends. The goal was to design interactive dashboards for business insights using Power BI.
